@@ -1,0 +1,7 @@
+Robert|Dobbson|23651|324 Millstone Ave|24331|2194243305|45000|physical plant
+Jenny|Smith|23564|2105 Thellosa St|24334|2192382442|44000|physical plant
+Andrew|Stevenson|23650|320 Millstone Ave|24331|2195537620|47000|research and development
+Martha|Lynn|23562|52 First St|24330|2198672439|52000|research and development
+Hilbert|Hiram|23658|8313 Mark St|24932|2156634002|65000|marketing
+Adrian|Stefan|22495|213 Main St|22931|2193826163|49000|marketing
+Hiroshi|Gualtiero|23916|512 Anchor Dr|24332|2198325074|60000|accounting
